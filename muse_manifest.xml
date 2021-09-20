@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etymos.ro" resolutions="1x" timestamp="1632155710762">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etymos.ro" resolutions="1x" timestamp="1632158207720">
   <folder name="images">
     <file name="pexels-ivan-samkov-4491918.jpg" crc="66890791" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -7,14 +7,14 @@
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="sona.css" crc="4193191577" ref="sona"/>
-    <file name="team.css" crc="4193191577" ref="team"/>
-    <file name="about-us.css" crc="4193191577" ref="about-us"/>
+    <file name="team.css" crc="529319629" ref="team"/>
+    <file name="about-us.css" crc="3787855488" ref="about-us"/>
     <file name="index.css" crc="3913482273" ref="index"/>
     <file name="contact-page.css" crc="3907941735" ref="contact-page"/>
     <file name="mission-vision-values.css" crc="4193191577" ref="mission-vision-values"/>
     <file name="selistat.css" crc="4193191577" ref="selistat"/>
-    <file name="projects.css" crc="4193191577" ref="projects"/>
-    <file name="home.css" crc="4193191577" ref="home"/>
+    <file name="projects.css" crc="473011261" ref="projects"/>
+    <file name="home.css" crc="4088827390" ref="home"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact-page:about-us:mission-vision-values:projects:team:sona:selistat:home"/>
@@ -31,11 +31,11 @@
   </folder>
   <file name="index.html" crc="4234163300" seo="true" mt="1632155701693" redirect="true"/>
   <file name="contact-page.html" crc="448758987" seo="true" mt="1628891157217" redirect="true"/>
-  <file name="about-us.html" crc="3835956390" seo="true" mt="1628890774815" redirect="false"/>
+  <file name="about-us.html" crc="4173002051" seo="true" mt="1632158195194" redirect="true"/>
   <file name="mission-vision-values.html" crc="314061656" seo="true" mt="1628890790841" redirect="false"/>
-  <file name="projects.html" crc="4070297189" seo="true" mt="1628890798325" redirect="false"/>
-  <file name="team.html" crc="175095476" seo="true" mt="1628890801727" redirect="false"/>
+  <file name="projects.html" crc="509470035" seo="true" mt="1632158185261" redirect="true"/>
+  <file name="team.html" crc="3762477451" seo="true" mt="1632158175644" redirect="true"/>
   <file name="sona.html" crc="507693" seo="true" mt="1628890871186" redirect="false"/>
   <file name="selistat.html" crc="3897092602" seo="true" mt="1628890886968" redirect="false"/>
-  <file name="home.html" crc="390142298" seo="true" mt="1632155507723" redirect="false"/>
+  <file name="home.html" crc="72045101" seo="true" mt="1632158164997" redirect="true"/>
 </manifest>
